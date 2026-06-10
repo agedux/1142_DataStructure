@@ -1,0 +1,7 @@
+6
+milk 3 8
+cookie 10 7
+cola 3 5
+bread 2 9
+chocolate 7 6
+instant noodles 5 10

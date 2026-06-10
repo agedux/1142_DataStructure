@@ -1,0 +1,6 @@
+5
+soda 4 6
+juice 4 8
+chips 3 9
+candy 3 7
+cookies 2 5
